@@ -10,3 +10,5 @@ function forLoop(array) {
   }
   return output;
 }
+
+function whileLoop(n)
