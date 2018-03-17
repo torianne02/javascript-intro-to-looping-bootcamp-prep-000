@@ -8,4 +8,5 @@ function forLoop(array) {
       output.push("I am " + i + " strange loops.");
     }
   }
+  return output;
 }
