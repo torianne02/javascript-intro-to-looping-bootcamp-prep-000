@@ -1,6 +1,6 @@
-function forLoop(array, t) {
+function forLoop(array) {
   var output = [];
-  for (var i = 0; i < t; i++) {
+  for (var i = 0; i < 25; i++) {
     if (i === 0) {
       output.push("I am 1 strange loop.");
     }
