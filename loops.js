@@ -1,3 +1,4 @@
+
 function forLoop(array) {
   var output = [];
   for (var i = 0; i < 25; i++) {
